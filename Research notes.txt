@@ -1,0 +1,45 @@
+🔹 What Makes a Password Strong?
+- **Length:** Longer passwords are exponentially harder to crack.
+- **Character Variety:** Include uppercase, lowercase, numbers, and symbols.
+- **Unpredictability:** Avoid common words, sequences, or personal info.
+- **Passphrases:** Combine random words for both security and memorability.
+
+---
+
+🔹 Common Password Attacks
+1. **Brute Force Attack**  
+   - Tries all possible combinations until the password is found.
+   - Strong passwords take significantly longer to crack.
+   
+2. **Dictionary Attack**  
+   - Uses a list of common words and passwords.
+   - Avoid dictionary words to prevent this.
+
+3. **Credential Stuffing**  
+   - Hackers use stolen credentials from one breach to log in elsewhere.
+   - Prevent by using different passwords for each account.
+
+4. **Phishing**  
+   - Tricks you into giving up your password via fake sites or emails.
+   - Prevent by verifying links and using MFA.
+
+---
+
+🔹 Best Practices for Strong Passwords
+✅ Minimum **12–16 characters**  
+✅ Mix of **uppercase, lowercase, numbers, symbols**  
+✅ Avoid **personal info & common patterns**  
+✅ Use **passphrases** for memorability  
+✅ Enable **Multi-Factor Authentication (MFA)**  
+✅ Store securely in a **password manager**  
+
+---
+
+📌 What I Learned
+Through this task, I learned:
+- How password length and complexity impact security.
+- How to evaluate passwords using online tools.
+- Why common patterns make passwords vulnerable.
+- How to defend against common password attacks.
+
+---
